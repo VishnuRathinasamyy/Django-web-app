@@ -1,0 +1,4 @@
+Django==5.2.7
+Pillow==12.0.0
+pynput==1.8.1
+pyspeech==0.0.0
